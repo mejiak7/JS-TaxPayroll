@@ -24,4 +24,5 @@ in this function it grabs the generated array of employees and randomly select o
 
 
 ## Repository
- 
+ https://github.com/mejiak7/JS-TaxPayroll.git
+ https://mejiak7.github.io/JS-TaxPayroll/
